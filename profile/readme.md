@@ -1,5 +1,12 @@
 <div align="center">
-
+<table>
+<tr>
+<th>
+<img src="../animated-bonguz.webp" >
+</th>
+<th>
+<h1>
+  
 ```
 ____   ___  _   _  ____ _   _ _____ 
 | __ ) / _ \| \ | |/ ___| | | |__  / 
@@ -7,8 +14,19 @@ ____   ___  _   _  ____ _   _ _____
 | |_) | |_| | |\  | |_| | |_| |/ /_ 
 |____/ \___/|_| \_|\____|\___//____|
 ```
+</h1>
 
+</th>
+</tr>
+</table>
 </div>
+
+
+
+
+
+
+
 
 Welcome to Bonguz—a collective built by engineers, for engineers. Whether you are deep into high-performance systems architecture, analyzing malware, or just grinding out algorithmic problems, this is your home base. We focus on hardcore development, cutting-edge cybersecurity, and building a network of builders who actually ship.
 
