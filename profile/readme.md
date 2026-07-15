@@ -45,7 +45,7 @@ We don't just talk; we build. Here is the operational stack powering our ecosyst
 <div align="center">
   <!-- Animated Hover Icons -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,go,c,cpp,linux,kali,ts,figma,docker,bash,git,github&theme=dark&perline=6" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=rust,go,c,cpp,linux,py,ts,figma,docker,bash,git,github&theme=dark&perline=6" alt="Tech Stack" />
   </a>
 </div>
 
